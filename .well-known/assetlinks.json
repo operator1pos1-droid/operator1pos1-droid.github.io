@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.diyos.ebookgenerator",
+      "sha256_cert_fingerprints": [
+        "3C:37:BC:C5:9F:E4:7C:3D:1B:AD:06:64:4F:95:ED:00:64:61:B6:87:1E:C0:0B:07:C0:21:07:4E:DC:74:FB:23"
+      ]
+    }
+  }
+]
